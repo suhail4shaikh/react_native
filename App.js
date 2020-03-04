@@ -45,7 +45,7 @@ export default class App extends Component {
                         secureTextEntry={true}
                     />
                     <Text style={{marginBottom:10}}>You have entered : {this.state.text}</Text>
-         
+
                     <Button  title="submit button" onPress={()=> this.submitForm()} disabled={this.state.username.length === 0 ? true : false}>Submit Form</Button>
 
                 </View>

@@ -13,7 +13,7 @@ class Header extends Component {
           alignItems: 'center',
           justifyContent: 'space-around',
         }}>
-        <Text style={{color: 'white'}}>App Name </Text>
+        <Text style={{color: 'white'}}>Let Navigate </Text>
       </View>
     );
   }

@@ -1,5 +1,5 @@
-/* eslint-disable react/react-in-jsx-scope */
 /* eslint-disable react-native/no-inline-styles */
+
 import React, {Component} from 'react';
 import {Text, View} from 'react-native';
 
